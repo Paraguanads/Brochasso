@@ -1,3 +1,5 @@
+![Brochasso](https://raw.githubusercontent.com/Paraguanads/Brochasso/main/client/src/assets/logo.svg)
+
 # Brochasso
 Genera imagenes mediante inteligencia artificial, descárgalas y compártelas en el muro público.
 
